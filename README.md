@@ -1,2 +1,2 @@
 # Hypteria
-my new malware (christmas special)
+C++ GDI trojan by red-wipet
